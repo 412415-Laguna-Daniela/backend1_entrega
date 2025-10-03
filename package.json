@@ -1,6 +1,8 @@
 {
   "dependencies": {
     "express-handlebars": "^8.0.2",
+    "mongoose": "^8.18.3",
+    "mongoose-paginate-v2": "^1.9.1",
     "socket.io": "^4.8.1"
   }
 }
